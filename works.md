@@ -25,6 +25,7 @@
 - [あの楽器プロジェクト](https://wiki.nicotech.jp/nico_tech/index.php?plugin=related&page=NT%E5%90%8D%E5%8F%A4%E5%B1%8B2) (2009年/NT名古屋2)
 - [どこでもミクテルミン](https://wiki.nicotech.jp/nico_tech/index.php?plugin=related&page=MTM03) (2009年/MTM04)
 - [ソインスウブンカイカメラ](https://ksasao.hatenadiary.org/entry/20091027/1256571935) (2009年/MTM04)
+- [ミクテルミン](https://www.nicovideo.jp/watch/sm1572456) (2008年/Make: Tokyo Meeting 2)
 
 # Twitter
 - [M5ATOMで接触確認アプリ](https://twitter.com/ksasao/status/1274385507565178885) (2020年)
